@@ -129,78 +129,92 @@
 
 ### 🚩 Primary Skills
 
-<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning">
-<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning">
-<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision">
-<img src="https://img.shields.io/badge/NLP-00865D?style=for-the-badge&logo=spacy&logoColor=white" alt="NLP">
-<img src="https://img.shields.io/badge/GenAI-8A2BE2?style=for-the-badge" alt="GenAI">
-<img src="https://img.shields.io/badge/Prompt%20Engineering-4CAF50?style=for-the-badge" alt="Prompt Engineering">
-<img src="https://img.shields.io/badge/MLOps-8A2BE2?style=for-the-badge" alt="MLOps">
-<img src="https://img.shields.io/badge/LLMOps-6E6E6E?style=for-the-badge&logo=openai&logoColor=white" alt="LLMOps">
-<img src="https://img.shields.io/badge/Backend%20Development-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="Backend Development">
+<p>
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning">
+  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision">
+  <img src="https://img.shields.io/badge/NLP-00865D?style=for-the-badge&logo=spacy&logoColor=white" alt="NLP">
+  <img src="https://img.shields.io/badge/GenAI-8A2BE2?style=for-the-badge" alt="GenAI">
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-4CAF50?style=for-the-badge" alt="Prompt Engineering">
+  <img src="https://img.shields.io/badge/MLOps-8A2BE2?style=for-the-badge" alt="MLOps">
+  <img src="https://img.shields.io/badge/LLMOps-6E6E6E?style=for-the-badge&logo=openai&logoColor=white" alt="LLMOps">
+  <img src="https://img.shields.io/badge/Backend%20Development-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="Backend Development">
+</p>
 
 ### 🤖 Generative AI / Agentic AI / Prompt Engineering
 
-<img src="https://img.shields.io/badge/RAG-4CAF50?style=for-the-badge" alt="RAG">
-<img src="https://img.shields.io/badge/LangChain-00865D?style=for-the-badge" alt="LangChain">
-<img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge" alt="LangGraph">
-<img src="https://img.shields.io/badge/CrewAI-232F3E?style=for-the-badge" alt="CrewAI">
-<img src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace">
-<img src="https://img.shields.io/badge/Zero--Shot-FF9800?style=for-the-badge" alt="Zero-Shot">
-<img src="https://img.shields.io/badge/Few--Shot-FF9800?style=for-the-badge" alt="Few-Shot">
-<img src="https://img.shields.io/badge/Chain--of--Thought-607D8B?style=for-the-badge" alt="Chain-of-Thought">
+<p>
+  <img src="https://img.shields.io/badge/RAG-4CAF50?style=for-the-badge" alt="RAG">
+  <img src="https://img.shields.io/badge/LangChain-00865D?style=for-the-badge" alt="LangChain">
+  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge" alt="LangGraph">
+  <img src="https://img.shields.io/badge/CrewAI-232F3E?style=for-the-badge" alt="CrewAI">
+  <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace">
+  <img src="https://img.shields.io/badge/Zero--Shot-FF9800?style=for-the-badge" alt="Zero-Shot">
+  <img src="https://img.shields.io/badge/Few--Shot-FF9800?style=for-the-badge" alt="Few-Shot">
+  <img src="https://img.shields.io/badge/Chain--of--Thought-607D8B?style=for-the-badge" alt="Chain-of-Thought">
+</p>
 
 ### 📊 Machine Learning / Deep Learning / Computer Vision / NLP
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
-<img src="https://img.shields.io/badge/OCR-000000?style=for-the-badge" alt="OCR">
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
-<img src="https://img.shields.io/badge/Seaborn-76B900?style=for-the-badge" alt="Seaborn">
-<img src="https://img.shields.io/badge/Vector%20DB-4DB6AC?style=for-the-badge" alt="Vector DB (Faiss, Chroma, Pinecone)">
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/OCR-000000?style=for-the-badge" alt="OCR">
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Seaborn-76B900?style=for-the-badge" alt="Seaborn">
+  <img src="https://img.shields.io/badge/Vector%20DB-4DB6AC?style=for-the-badge" alt="Vector DB (Faiss, Chroma, Pinecone)">
+</p>
 
 ### ⚙️ MLOps / LLMOps
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" alt="Ollama">
-<img src="https://img.shields.io/badge/Unsloth-607D8B?style=for-the-badge" alt="Unsloth">
-<img src="https://img.shields.io/badge/ZenML-FF6F00?style=for-the-badge" alt="ZenML">
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow">
-<img src="https://img.shields.io/badge/OpenAI-6E6E6E?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
-<img src="https://img.shields.io/badge/Anthropic-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude">
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Google Gemini">
-<img src="https://img.shields.io/badge/Gemma-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemma">
-<img src="https://img.shields.io/badge/Meta%20Llama-231F20?style=for-the-badge" alt="Meta Llama">
-<img src="https://img.shields.io/badge/Mistral-00B4D8?style=for-the-badge" alt="Mistral">
-<img src="https://img.shields.io/badge/GROQ-FF007F?style=for-the-badge" alt="GROQ">
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" alt="Ollama">
+  <img src="https://img.shields.io/badge/Unsloth-607D8B?style=for-the-badge" alt="Unsloth">
+  <img src="https://img.shields.io/badge/ZenML-FF6F00?style=for-the-badge" alt="ZenML">
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow">
+  <img src="https://img.shields.io/badge/OpenAI-6E6E6E?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
+  <img src="https://img.shields.io/badge/Anthropic-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude">
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Google Gemini">
+  <img src="https://img.shields.io/badge/Gemma-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemma">
+  <img src="https://img.shields.io/badge/Meta%20Llama-231F20?style=for-the-badge" alt="Meta Llama">
+  <img src="https://img.shields.io/badge/Mistral-00B4D8?style=for-the-badge" alt="Mistral">
+  <img src="https://img.shields.io/badge/GROQ-FF007F?style=for-the-badge" alt="GROQ">
+</p>
 
 ### ☁️ Cloud Services
 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
-<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP">
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP">
+</p>
 
-### 🖥️ Backend Development
+### 🖥️ Backend
 
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch">
+<p>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch">
+</p>
 
 ### 💻 Programming Languages
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge" alt="C">
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge" alt="C">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+</p>
 
 ---
 
