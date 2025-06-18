@@ -30,6 +30,40 @@
 <table>
   <tr>
     <td width="50%">
+      <h3 align="center">Learning Journal</h3>
+      <div align="center">
+        <p>
+          A personal repository documenting my learning journey across programming, AI, and technology.
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/Learning-3776AB?style=flat-square&logo=book&logoColor=white" alt="learning">
+        </p>
+        <a href="https://github.com/sajithsajith/learning-journal/" target="_blank">
+          <img src="https://img.shields.io/badge/View_Code-black?style=for-the-badge&logo=github" alt="View Code">
+        </a>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Agentic TTS Crew: Autonomous Research to Speech Synthesis</h3>
+      <div align="center">
+        <p>
+        A multi-agent system built with CrewAI that autonomously researches a given topic, generates a concise summary, and converts it into high-quality speech—coordinated by a manager agent orchestrating specialized agents to showcase agentic workflows in action.
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/CrewAI-orange?style=flat-square" alt="CrewAI">
+          <img src="https://img.shields.io/badge/Claude%203.5%20Sonnet-6E6E6E?style=flat-square&logo=anthropic&logoColor=white" alt="Claude 3.5 Sonnet">
+          <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face">
+          <img src="https://img.shields.io/badge/LangChain-00A37F?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
+          <img src="https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Bedrock">
+        </p>
+        <a href="https://github.com/sajithsajith/multi-agent-research-narrator" target="_blank">
+          <img src="https://img.shields.io/badge/View_Code-black?style=for-the-badge&logo=github" alt="View Code">
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h3 align="center">Gesture-Based Tool for Sterile Browsing</h3>
       <div align="center">
         <p>
