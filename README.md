@@ -154,6 +154,23 @@
         </a>
       </div>
     </td>
+    <td width="50%">
+      <h3 align="center">Image Classification with CNN</h3>
+      <div align="center">
+        <p>
+          This project demonstrates how to build a Convolutional Neural Network (CNN) using TensorFlow/Keras to classify images of vegetables. The workflow covers data preparation, augmentation, model building, training, evaluation, and tuning.
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
+          <img src="https://img.shields.io/badge/CNN-1976D2?style=flat-square&logo=google&logoColor=white" alt="CNN">
+          <img src="https://img.shields.io/badge/Deep%20Learning-FF9800?style=flat-square&logo=brain&logoColor=white" alt="Deep Learning">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+        </p>
+        <a href="https://github.com/sajithsajith/CNN" target="_blank">
+          <img src="https://img.shields.io/badge/View_Code-black?style=for-the-badge&logo=github" alt="View Code">
+        </a>
+      </div>
+    </td>
   </tr>
 </table>
 
