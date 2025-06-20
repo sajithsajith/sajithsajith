@@ -2,8 +2,12 @@
   <img src="assets/arch.png" alt="Sajith S - AI Engineer Banner">
 </p>
 
-<h1 align="center">Hi there, I'm Sajith S 👋</h1>
-<h3 align="center">AI Engineer | Computer Vision & NLP Specialist | Building Intelligent End-to-End Systems</h3>
+<p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poiret+One&size=80&letterSpacing=Normal&duration=100&color=83C5BE&center=true&vCenter=true&repeat=false&width=1000&height=100&lines=Hi+There%2C+I'm+Sajith+%F0%9F%91%8B" alt="Typing SVG" /></a>
+</p>
+<p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=EFD3D7&center=true&multiline=true&repeat=false&width=735&height=55&lines=AI+Engineer;ML+%7C+DL+%7C+CV+%7C+NLP+%7C+GenAI+%7C+MLOps%2FLLMOps+%7C+AWS+%7C+Azure" alt="Typing SVG" /></a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sajith-s" target="_blank">
