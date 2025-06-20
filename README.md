@@ -3,7 +3,7 @@
 </p>
 
 <p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poiret+One&size=80&letterSpacing=Normal&duration=100&color=83C5BE&center=true&vCenter=true&repeat=false&width=1000&height=100&lines=Hi+There%2C+I'm+Sajith+%F0%9F%91%8B" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poiret+One&size=80&letterSpacing=Normal&duration=100&color=83C5BE&center=true&vCenter=true&repeat=false&width=1000&height=120&lines=Hi+There%2C+I'm+Sajith+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </p>
 <p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=EFD3D7&center=true&multiline=true&repeat=false&width=735&height=55&lines=AI+Engineer;ML+%7C+DL+%7C+CV+%7C+NLP+%7C+GenAI+%7C+MLOps%2FLLMOps+%7C+AWS+%7C+Azure" alt="Typing SVG" /></a>
@@ -215,6 +215,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
+  <img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logoColor=white" alt="NLTK">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
   <img src="https://img.shields.io/badge/OCR-000000?style=for-the-badge" alt="OCR">
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
@@ -292,4 +293,10 @@ _(Feb 2023 - Sep 2023)_
 - Developed custom OCR models to process text and symbols in medical documents.
 - Designed Object Detection models to identify and categorize sections within large PDFs.
 
----
+## 📄 Employers?
+
+<p align="center">
+  <a href="assets/resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View_My_Resume-FF69B4?style=for-the-badge&logo=readthedocs&logoColor=white" alt="View My Resume">
+  </a>
+</p>
