@@ -172,6 +172,26 @@
       </div>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">End-to-End ML Web App for Claim Analysis</h3>
+      <div align="center">
+        <p>
+          A FastAPI-powered web app that automates medical claim analysis. It ingests CSV/XLSX data, trains a Logistic Regression model to predict denial reasons, and visualizes results, showcasing an end-to-end MLOps workflow.
+        </p>
+        <p>
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+          <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
+          <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+        </p>
+        <a href="https://github.com/sajithsajith/fastapi-sklearn-logistic-regression-demo" target="_blank">
+          <img src="https://img.shields.io/badge/View_Code-black?style=for-the-badge&logo=github" alt="View Code">
+        </a>
+      </div>
+    </td>
+    <td width="50%"></td>
+  </tr>
 </table>
 
 ---
